@@ -1,0 +1,6 @@
+{
+  "name": "WCAG Contrast Checker",
+  "description": "A professional accessibility color contrast checker based on WCAG 2.1 guidelines with interactive previews, smart color suggestions, and educational standard references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
